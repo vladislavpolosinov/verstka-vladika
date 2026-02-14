@@ -1,0 +1,24 @@
+header {
+    background-color: #5E0DAC;
+    border: 35px solid #5E0DAC;
+}
+h1 {
+    text-align: center;
+}
+.bal {
+    border: 8px solid #5E0DAC;
+    border-radius: 25px;
+    padding: 5px;
+}
+footer{
+background-color: #5E0DAC;
+border: 15px solid #5E0DAC;
+}
+footer p{
+    padding: 10px 0px 10px 0px;
+    background-color: white;
+    width: 350px;
+}
+main img {
+    padding: 10px;
+}
